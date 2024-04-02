@@ -1,1 +1,1 @@
-# Kibana-playground
+This repository contains resources and commands used within the [Data Visualization with Kibana course](https://l.codingexplained.com/r/kibana-course?src=github).
